@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\bin\Debug\netcoreapp3.1\exercises-Writing and reading files.exe
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\bin\Debug\netcoreapp3.1\exercises-Writing and reading files.deps.json
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\bin\Debug\netcoreapp3.1\exercises-Writing and reading files.runtimeconfig.json
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\bin\Debug\netcoreapp3.1\exercises-Writing and reading files.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\bin\Debug\netcoreapp3.1\exercises-Writing and reading files.dll
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\bin\Debug\netcoreapp3.1\exercises-Writing and reading files.pdb
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\obj\Debug\netcoreapp3.1\exercises-Writing and reading files.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\obj\Debug\netcoreapp3.1\exercises-Writing and reading files.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\obj\Debug\netcoreapp3.1\exercises-Writing and reading files.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\obj\Debug\netcoreapp3.1\exercises-Writing and reading files.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\obj\Debug\netcoreapp3.1\exercises-Writing and reading files.dll
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\obj\Debug\netcoreapp3.1\exercises-Writing and reading files.pdb
+C:\Users\Farrukh\source\repos\exercises-Writing and reading files\exercises-Writing and reading files\obj\Debug\netcoreapp3.1\exercises-Writing and reading files.genruntimeconfig.cache
